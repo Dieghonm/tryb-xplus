@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/tryb-xplus/static/css/main.a617e044.chunk.css",
-    "main.js": "/tryb-xplus/static/js/main.8d421927.chunk.js",
-    "main.js.map": "/tryb-xplus/static/js/main.8d421927.chunk.js.map",
-    "runtime-main.js": "/tryb-xplus/static/js/runtime-main.32ec1757.js",
-    "runtime-main.js.map": "/tryb-xplus/static/js/runtime-main.32ec1757.js.map",
-    "static/js/2.a3f4da5f.chunk.js": "/tryb-xplus/static/js/2.a3f4da5f.chunk.js",
-    "static/js/2.a3f4da5f.chunk.js.map": "/tryb-xplus/static/js/2.a3f4da5f.chunk.js.map",
-    "static/js/3.81a7c077.chunk.js": "/tryb-xplus/static/js/3.81a7c077.chunk.js",
-    "static/js/3.81a7c077.chunk.js.map": "/tryb-xplus/static/js/3.81a7c077.chunk.js.map",
+    "main.css": "/tryb-xplus/static/css/main.2ff2638c.chunk.css",
+    "main.js": "/tryb-xplus/static/js/main.922f7813.chunk.js",
+    "main.js.map": "/tryb-xplus/static/js/main.922f7813.chunk.js.map",
+    "runtime-main.js": "/tryb-xplus/static/js/runtime-main.52ca0d3d.js",
+    "runtime-main.js.map": "/tryb-xplus/static/js/runtime-main.52ca0d3d.js.map",
+    "static/js/2.34d36ff4.chunk.js": "/tryb-xplus/static/js/2.34d36ff4.chunk.js",
+    "static/js/2.34d36ff4.chunk.js.map": "/tryb-xplus/static/js/2.34d36ff4.chunk.js.map",
+    "static/js/3.54498a13.chunk.js": "/tryb-xplus/static/js/3.54498a13.chunk.js",
+    "static/js/3.54498a13.chunk.js.map": "/tryb-xplus/static/js/3.54498a13.chunk.js.map",
     "index.html": "/tryb-xplus/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/tryb-xplus/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.a3f4da5f.chunk.js.LICENSE.txt": "/tryb-xplus/static/js/2.a3f4da5f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/tryb-xplus/static/media/logo.6ce24c58.svg"
+    "static/css/main.2ff2638c.chunk.css.map": "/tryb-xplus/static/css/main.2ff2638c.chunk.css.map",
+    "static/js/2.34d36ff4.chunk.js.LICENSE.txt": "/tryb-xplus/static/js/2.34d36ff4.chunk.js.LICENSE.txt",
+    "static/media/TryB-X+ header.05ed59a7.png": "/tryb-xplus/static/media/TryB-X+ header.05ed59a7.png",
+    "static/media/TryB-X+ logo.ccd1e7f6.png": "/tryb-xplus/static/media/TryB-X+ logo.ccd1e7f6.png",
+    "static/media/Trybe Logo.1bcc6d78.svg": "/tryb-xplus/static/media/Trybe Logo.1bcc6d78.svg",
+    "static/media/css.39769a8b.svg": "/tryb-xplus/static/media/css.39769a8b.svg",
+    "static/media/hook.34bedb66.png": "/tryb-xplus/static/media/hook.34bedb66.png",
+    "static/media/html.8664168d.svg": "/tryb-xplus/static/media/html.8664168d.svg",
+    "static/media/jest.f6fa228a.png": "/tryb-xplus/static/media/jest.f6fa228a.png",
+    "static/media/js.4c1b5332.svg": "/tryb-xplus/static/media/js.4c1b5332.svg",
+    "static/media/react.73ac128a.png": "/tryb-xplus/static/media/react.73ac128a.png",
+    "static/media/redux.d25c5f47.svg": "/tryb-xplus/static/media/redux.d25c5f47.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.32ec1757.js",
-    "static/js/2.a3f4da5f.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.8d421927.chunk.js"
+    "static/js/runtime-main.52ca0d3d.js",
+    "static/js/2.34d36ff4.chunk.js",
+    "static/css/main.2ff2638c.chunk.css",
+    "static/js/main.922f7813.chunk.js"
   ]
 }
