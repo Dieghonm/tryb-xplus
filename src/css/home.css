@@ -1,0 +1,39 @@
+.home {
+  display: flex;
+  flex-direction: row;
+}
+
+.logodiv{
+  /* min-height: 50%; */
+  background-color: #036b52;
+  border: 1px #2fc18c solid;
+  padding: 2% 10% ;
+  margin: 15px;
+}
+
+.logo {
+  height: 300px;
+  margin: 10%;
+}
+
+.homeH{
+  background-color: #036b52;
+  color: white;
+}
+
+.card {
+  width: 150px;
+  height: 150px;
+  padding: 5%;
+  margin: 15px;
+  background-color: #036b52;
+  border: 1px #2fc18c solid;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.materia {
+  width: 75%;
+  background-color: #036b52;
+}

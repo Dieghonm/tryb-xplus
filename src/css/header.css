@@ -1,0 +1,26 @@
+.header {
+  background-color: #036b52;
+  border-bottom: 10px #2fc18c solid;
+  display: flex;
+  flex-direction: row;
+}
+
+.logoHeader{
+  height: 70px;
+  margin-left: 20px;
+}
+
+.logotrybe {
+  height: 50px;
+  background-color: #036b52;
+  position: absolute;
+  top: 5px;
+  right: 20px;
+}
+
+/* cores
+v escuro #036b52
+v claro  #2fc18c
+branco #fff;
+escuro #3d495c;
+*/
